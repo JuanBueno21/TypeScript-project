@@ -1,4 +1,4 @@
-import { LogBox } from "react-native";
+// import { LogBox } from "react-native";
 
 const h1 = document.querySelector("h1");
 console.log(h1?.textContent);
